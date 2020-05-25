@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B-Tech in Electronics and Communication Engineering, National Institute of Technology Karnataka, 2018
+* MSc in Computer Science, Simon Fraser University, 2021 (expected)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Research Intern 
+  * University of Regina
+  * Supervisor: Prof. Rene Mayorga
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018: Research Intern
+  * Manipal Dot Net Pvt. Ltd.
+  * Supervisor: Dr. Niranjan U C
   
 Skills
 ======
@@ -56,4 +54,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* JEE tutor...
