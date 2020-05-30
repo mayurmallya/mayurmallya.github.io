@@ -5,7 +5,7 @@ source "https://rubygems.org"
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
 #     bundle exec jekyll serve
-bundle #MM
+# bundle #MM
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
@@ -25,5 +25,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
-  gem "minimal-mistakes-jekyll" #MM
+#   gem "minimal-mistakes-jekyll" #MM
 end
