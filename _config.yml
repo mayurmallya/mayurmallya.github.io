@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Mayur Mallya"
 title_separator          : "-"
 name                     : &name "Mayur Mallya"
-description              : &description "Graduate Research student at Medical Image Analysis Lab, Simon Fraser University"
+description              : &description #"Graduate Research student at the Medical Image Analysis Lab, Simon Fraser University"
 url                      : https://mayurmallya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mayurmallya.github.io"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Mayur Mallya"
   avatar           : "pp.jpeg" #"profile.png"
-  bio              : "Graduate Research student at Medical Image Analysis Lab at Simon Fraser University"
+  bio              : "Graduate Research student at the Medical Image Analysis Lab of Simon Fraser University"
   location         : "Metro Vancouver, Canada"
   employer         :
   pubmed           : 
