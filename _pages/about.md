@@ -17,7 +17,7 @@ I started my Masters (Thesis-based M.Sc.) in the Fall of 2019. Before joining SF
 
 Here's my [CV](https://drive.google.com/file/d/1LMkNtMOzZLP2n4njvQaKbK1m7WfPHjnA/view?usp=sharing) 
 
-Email: mmallya (~_at_~) sfu (~_dot_~) ca
+Email: mmallya ([_at_)] sfu [(_dot_]) ca
 
 
 
