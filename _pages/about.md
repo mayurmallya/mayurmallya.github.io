@@ -16,4 +16,6 @@ Hi, I'm an MSc student and a Research Assistant at the [Medical Image Analysis L
 (Website to be updated soon...)
 
 
+<a href="https://madewithlove.org.in" target="_blank">Made with <span style="color: #e74c3c">&hearts;</span> in India</a>
+
 
