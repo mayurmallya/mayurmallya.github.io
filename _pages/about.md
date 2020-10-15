@@ -13,7 +13,7 @@ Hi. Welcome to my homepage!
 
 I'm an MSc student and a Research Assistant at the [Medical Image Analysis Lab](https://www.medicalimageanalysis.com/) at the Simon Fraser University, Burnaby. My research interests lie in the field of Computer Vision and Deep Learning, particularly on images and graphs.
 
-To be updated soon...
+(Website to be updated soon...)
 
 
 
