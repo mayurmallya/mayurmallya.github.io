@@ -11,7 +11,9 @@ redirect_from:
 Welcome to my e-home!
 =====
 
-Hi there. I'm a graduate student at the School of Computing Science of the Simon Fraser University (SFU) in Burnaby. I work as a Research Assistant at the [Medical Image Analysis Lab](https://www.medicalimageanalysis.com/) of SFU under the supervision of Prof. [Ghassan Hamarneh](https://scholar.google.com/citations?user=61DdlkAAAAAJ). My research interests lie in the field of Computer Vision and Deep Learning, particularly on images and graphs.
+ನಮಸ್ಕಾರ नमस्ते Hir there,
+
+I'm a graduate student at the School of Computing Science of the Simon Fraser University (SFU) in Burnaby. I work as a Research Assistant at the [Medical Image Analysis Lab](https://www.medicalimageanalysis.com/) of SFU under the supervision of Prof. [Ghassan Hamarneh](https://scholar.google.com/citations?user=61DdlkAAAAAJ). My research interests lie in the field of Computer Vision and Deep Learning, particularly on images and graphs.
 
 I started my Masters (Thesis-based M.Sc.) in the Fall of 2019. Before joining SFU, I did my undergrad at the National Institute of Technology Karnataka in Electronics and Communication Engineering. I was fortunate to have interned at the University of Regina and Manipal Dot Net Pvt. Ltd. during this period. 
 
@@ -19,15 +21,6 @@ I started my Masters (Thesis-based M.Sc.) in the Fall of 2019. Before joining SF
 
 Email: mmallya ([_at_)] sfu [(_dot_]) ca
 
-<!doctype html>
-<meta charset=utf-8>
-<title>Kannada test</title>
-<style>
-@import url(http://fonts.googleapis.com/earlyaccess/notosanskannada.css);
-body { font-family: "Noto Sans Kannada", sans-serif; font-size: 19.0px; line-height: 1.11em; }
-</style>
-Hello world!
-<p>
-ಮುಖ್ಯ_ಪುಟ
+
 
 
