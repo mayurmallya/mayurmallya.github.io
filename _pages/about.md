@@ -19,6 +19,14 @@ I started my Masters (Thesis-based M.Sc.) in the Fall of 2019. Before joining SF
 
 Email: mmallya ([_at_)] sfu [(_dot_]) ca
 
-
+<!doctype html>
+<meta charset=utf-8>
+<title>Kannada test</title>
+<style>
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskannada.css);
+body { font-family: "Noto Sans Kannada", sans-serif; font-size: 19.0px; line-height: 1.11em; }
+</style>
+Hello world!
+<p>
 
 
