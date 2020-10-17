@@ -28,5 +28,6 @@ body { font-family: "Noto Sans Kannada", sans-serif; font-size: 19.0px; line-hei
 </style>
 Hello world!
 <p>
+ಮುಖ್ಯ_ಪುಟ
 
 
