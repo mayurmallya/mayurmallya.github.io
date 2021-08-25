@@ -12,7 +12,7 @@ redirect_from:
 
 
 ನಮಸ್ಕಾರ, नमस्ते, Hi there,
-====
+=====
 
 I'm a graduate student at the School of Computing Science of the Simon Fraser University (SFU) in Burnaby. I work as a Research Assistant at the [Medical Image Analysis Lab](https://www.medicalimageanalysis.com/) of SFU under the supervision of Prof. [Ghassan Hamarneh](https://scholar.google.com/citations?user=61DdlkAAAAAJ). My research interests lie in the field of Computer Vision and Deep Learning, particularly on images and graphs.
 
