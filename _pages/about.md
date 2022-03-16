@@ -16,20 +16,15 @@ I'm a graduate student at the School of Computing Science of the Simon Fraser Un
 
 I started my Masters (Thesis-based M.Sc.) in the Fall of 2019. Before joining SFU, I did my undergrad at the National Institute of Technology Karnataka in Electronics and Communication Engineering. I was fortunate to have interned at the University of Regina and Manipal Dot Net Pvt. Ltd. during this period. 
 
-<!-- Here's my [CV](https://drive.google.com/file/d/1Rg--6h9s2V9dd5wZNkomOUAA29ZV3pAq/view?usp=sharing).-->
-
+Resume: [link](https://drive.google.com/file/d/1IOQ4ikzUoqzf_rgm6sm757GcDzokfLYZ/view?usp=sharing)
 Email: mmallya ([_at_)] sfu [(_dot_]) ca
-
-
 
 Publications
 ---
 
-
 > **2. Deep Multimodal Guidance for Medical Image Classification**  
 > **M Mallya**, G Hamarneh  
 > arXiv, 2022 ([pdf](https://arxiv.org/pdf/2203.05683.pdf), [3MTvideo](https://youtu.be/hy-haCkZsNo))  
-
 
 > **1. Artifical Intelligence in Glioma Imaging: Challenges and Advances**  
 > W Jin, M Fatehi, K Abhishek, **M Mallya**, B Toyota, G Hamarneh  
