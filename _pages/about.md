@@ -26,7 +26,7 @@ Email: mmallya ([_at_)] sfu [(_dot_]) ca
 Research
 ---
 
-0. Deep Multimodal Guidance for Medical Image Classification 
+2. Deep Multimodal Guidance for Medical Image Classification 
 **M Mallya**, G Hamarneh
 arXiv, 2022 ([Link to the pdf](https://arxiv.org/pdf/2203.05683.pdf))
    
