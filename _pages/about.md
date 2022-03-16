@@ -32,6 +32,6 @@ Publications
 > Journal of Neural Engineering, 2020 ([pdf](https://iopscience.iop.org/article/10.1088/1741-2552/ab8131/pdf))  
 
 
-
+---
 
 Last updated: 16 Mar 2022
