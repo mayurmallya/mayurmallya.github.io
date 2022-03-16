@@ -28,7 +28,7 @@ Research
 ---
 
 <ol reversed>
-  <li>Deep Multimodal Guidance for Medical Image Classification</li> M Mallya, G Hamarneh<br /> arXiv, 2022<br />
+  <li>Deep Multimodal Guidance for Medical Image Classification<br /> M Mallya, G Hamarneh<br /> arXiv, 2022</li>
   <br />
-  <li>Artifical Intelligence in Glioma Imaging: Challenges and Advances</li> W Jin, M Fatehi, K Abhishek, M Mallya, B Toyota, G Hamarneh<br /> Journal of Neural Engineering, 2020<br />
+  <li>Artifical Intelligence in Glioma Imaging: Challenges and Advances<br /> W Jin, M Fatehi, K Abhishek, M Mallya, B Toyota, G Hamarneh<br /> Journal of Neural Engineering, 2020</li>
 </ol>
