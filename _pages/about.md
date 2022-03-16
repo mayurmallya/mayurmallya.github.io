@@ -21,14 +21,13 @@ I started my Masters (Thesis-based M.Sc.) in the Fall of 2019. Before joining SF
 <!-- Here's my [CV](https://drive.google.com/file/d/1Rg--6h9s2V9dd5wZNkomOUAA29ZV3pAq/view?usp=sharing).-->
 
 Email: mmallya ([_at_)] sfu [(_dot_]) ca
-<!-- hr style="width:100%;text-align:left;margin-center:0"> -->
 
 
 Research
 ---
 
 <ol reversed>
-  <li>Deep Multimodal Guidance for Medical Image Classification<br /> M Mallya, G Hamarneh<br /> arXiv, 2022</li>
+  <li>Deep Multimodal Guidance for Medical Image Classification<br /> **M Mallya**, G Hamarneh<br /> arXiv, 2022 [Link to the pdf](https://arxiv.org/pdf/2203.05683.pdf)</li>
   <br />
-  <li>Artifical Intelligence in Glioma Imaging: Challenges and Advances<br /> W Jin, M Fatehi, K Abhishek, M Mallya, B Toyota, G Hamarneh<br /> Journal of Neural Engineering, 2020</li>
+  <li>Artifical Intelligence in Glioma Imaging: Challenges and Advances<br /> W Jin, M Fatehi, K Abhishek, **M Mallya**, B Toyota, G Hamarneh<br /> Journal of Neural Engineering, 2020 [Link to the pdf](https://iopscience.iop.org/article/10.1088/1741-2552/ab8131/pdf)</li>
 </ol>
