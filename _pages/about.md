@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Welcome to my e-home! -->
-
 
 ನಮಸ್ಕಾರ, नमस्ते, Hi there,
 ---
