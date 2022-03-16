@@ -22,7 +22,7 @@ I started my Masters (Thesis-based M.Sc.) in the Fall of 2019. Before joining SF
 
 Email: mmallya ([_at_)] sfu [(_dot_]) ca
 
-<hr style="width:75%;text-align:left;margin-center:0">
+<hr style="width:100%;text-align:left;margin-center:0">
 
 
 
