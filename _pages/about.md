@@ -39,4 +39,4 @@ Relevant projects
 > Project done as part of Deep Learning for Graphs course in Summer 2020 ([pdf](https://drive.google.com/file/d/1sJLczysTd3q0PM0y9ivzrzeppJ16H0Pu/view?usp=sharing), [code](https://github.com/mayurmallya/Brain-Tumor-Classification-Using-GCNs))  
 
 
-*Last updated: 16 Mar 2022*
+*Last updated: 04 May 2022*
