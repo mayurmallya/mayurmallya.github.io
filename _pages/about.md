@@ -24,7 +24,7 @@ Publications
 
 > **2. Deep Multimodal Guidance for Medical Image Classification**  
 > **M Mallya**, G Hamarneh  
-> arXiv, 2022 ([pdf](https://arxiv.org/pdf/2203.05683.pdf), [code](https://github.com/mayurmallya/Deep-Multimodal-Guidance-for-Medical-Image-Classification), [3MTvideo](https://youtu.be/hy-haCkZsNo))  
+> arXiv, 2022 ([pdf](https://arxiv.org/pdf/2203.05683.pdf), [code](), [3MTvideo](https://youtu.be/hy-haCkZsNo))  
 
 > **1. Artifical Intelligence in Glioma Imaging: Challenges and Advances**  
 > W Jin, M Fatehi, K Abhishek, **M Mallya**, B Toyota, G Hamarneh  
