@@ -47,4 +47,9 @@ Relevant projects
 > Project done as part of the Mitacs Globalink research internship in Summer 2017 ([pdf](https://drive.google.com/file/d/0B3f97bMqsNFhTElxUm9GV1RKb29iekNvUjFTRXd2NTFaTThF/view?usp=sharing&resourcekey=0-o7hGCoTPfB87xhQRS88HPA))  
 
 
+Organizations
+---
+
+![](/images/website_orgs.png)
+
 *Last updated: 06 May 2022*
