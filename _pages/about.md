@@ -40,20 +40,28 @@ Publications
 Relevant projects
 ---
 
-> **4. Brain Tumor Classification using Graph Convolution Networks**  
+> **3. Brain Tumor Classification using Graph Convolution Networks**  
 > **M Mallya**  
 > Project done as part of Deep Learning for Graphs course in Summer 2020 ([pdf](https://drive.google.com/file/d/1sJLczysTd3q0PM0y9ivzrzeppJ16H0Pu/view?usp=sharing), [code](https://github.com/mayurmallya/Brain-Tumor-Classification-Using-GCNs))  
 
-> **3. Child-face Prediction using Generative Adversarial Networks**  
+> **2. Child-face Prediction using Generative Adversarial Networks**  
 > K Chakola, K Desai, **M Mallya**, V Das  
 > Project done as part of Machine Learning course in Fall 2019 ([pdf](https://drive.google.com/file/d/14K05syATqXhwqT9yEWfSeEOgb_Cyig7l/view?usp=sharing))  
-
-> **2. Machine Learning algorithms**  
-> Implemented some basic ML and DL algorithms as part of the Machine Learning course in Fall 2019 ([code](https://github.com/mayurmallya/Machine-Learning))
 
 > **1. Weather Forecasting using Neural Networks**  
 > **M Mallya**  
 > Project done as part of the Mitacs Globalink research internship in Summer 2017 ([pdf](https://drive.google.com/file/d/0B3f97bMqsNFhTElxUm9GV1RKb29iekNvUjFTRXd2NTFaTThF/view?usp=sharing&resourcekey=0-o7hGCoTPfB87xhQRS88HPA))  
+
+Relevant coursework
+---
+
+> **2. Deep Learning**  
+> Implemented basic neural networks for classification, CNNs for image classification, LSTMs for sentence generation, and VAEs for image generation, as part of the Deep Learning course in Spring 2020 ([code](https://github.com/mayurmallya/Deep-Learning-basics))
+
+
+> **1. Machine Learning**  
+> Implemented some basic ML and DL algorithms such as Linear and Logistic regression and Transfer Learning, as part of the Machine Learning course in Fall 2019 ([code](https://github.com/mayurmallya/Machine-Learning))
+
 
 
 Organizations
