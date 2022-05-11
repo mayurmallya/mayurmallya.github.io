@@ -60,7 +60,7 @@ Relevant coursework
 
 
 > **1. Machine Learning**  
-> Implemented some basic ML and DL algorithms such as Linear and Logistic regression and Transfer Learning, as part of the Machine Learning course in Fall 2019 ([code](https://github.com/mayurmallya/Machine-Learning))
+> Implemented some basic ML and DL algorithms such as Linear and Logistic regression, and Transfer Learning, as part of the Machine Learning course in Fall 2019 ([code](https://github.com/mayurmallya/Machine-Learning))
 
 
 
