@@ -55,7 +55,7 @@ Relevant projects
 Relevant coursework
 ---
 
-> **Computer Vision**  
+> **3. Computer Vision**  
 > Implemented classical computer vision concepts and algorithms like Hough transforms, Epipolar geometry, Planar homographies, etc. as part of the Computer Vision course in Spring 2020 ([code](https://github.com/mayurmallya/Computer-Vision))
 
 > **2. Deep Learning**  
