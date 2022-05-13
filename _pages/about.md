@@ -25,7 +25,7 @@ Publications
 > **2. Deep Multimodal Guidance for Medical Image Classification**  
 > <img src="/images/website_MMG.png" width="220" height="150" align="right">   
 > **M Mallya**, G Hamarneh  
-> arXiv, 2022 ([pdf](https://arxiv.org/pdf/2203.05683.pdf), [code](), [3MTvideo](https://youtu.be/hy-haCkZsNo))  
+> Provisionally accepted to MICCAI 2022 ([pdf](https://arxiv.org/pdf/2203.05683.pdf), [code](), [3MTvideo](https://youtu.be/hy-haCkZsNo))  
 <!-- > ![](/images/website_MMG.png =250x250) -->
 
 <br/><br/><br/>
