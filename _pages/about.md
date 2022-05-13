@@ -26,7 +26,7 @@ Publications
 > <img src="/images/website_MMG.png" width="220" height="150" align="right">   
 > **M Mallya**, G Hamarneh  
 > Provisionally accepted to MICCAI 2022 ([pdf](https://arxiv.org/pdf/2203.05683.pdf), [code](), [3MTvideo](https://youtu.be/hy-haCkZsNo))  
-> Leveraging the superior modality – that is usually harder to acquire – to guide the classification of the easily acquired modality using multimodal and student-teacher learning strategies. We are demonstrating the method on two datasets- RadPath (paired radiology and histopathology images) and Derm7pt (paired clinical and dermoscopic images)  
+>> Leveraging the superior modality – that is usually harder to acquire – to guide the classification of the easily acquired modality using multimodal and student-teacher learning strategies. We are demonstrating the method on two datasets- RadPath (paired radiology and histopathology images) and Derm7pt (paired clinical and dermoscopic images)  
 
 <br/><br/><br/>
 
@@ -34,7 +34,7 @@ Publications
 > <img src="/images/website_aiglioma.jpg" width="180" height="180" align="right">   
 > W Jin, M Fatehi, K Abhishek, **M Mallya**, B Toyota, G Hamarneh  
 > Journal of Neural Engineering, 2020 ([pdf](https://iopscience.iop.org/article/10.1088/1741-2552/ab8131/pdf))  
-> A review of the recent advances in the application of deep learning brain tumor (glioma) analysis. The paper discusses the challenges involved in the process starting from data acquisition to the clinical deployment of the trained model. We further present the technical approaches currently used to overcome the discussed challenges.
+>> A review of the recent advances in the application of deep learning brain tumor (glioma) analysis. The paper discusses the challenges involved in the process starting from data acquisition to the clinical deployment of the trained model. We further present the technical approaches currently used to overcome the discussed challenges.
 
 <br/><br/><br/>
 
