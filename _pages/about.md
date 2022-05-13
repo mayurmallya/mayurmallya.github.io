@@ -17,7 +17,7 @@ I'm a graduate student in the School of Computing Science at the Simon Fraser Un
 I started my Masters (Thesis-based M.Sc.) in the Fall of 2019. Before joining SFU, I did my undergrad at the National Institute of Technology Karnataka in Electronics and Communication Engineering. I was fortunate to have interned at the University of Regina and Manipal Dot Net Pvt. Ltd. during this period. 
 
 - CV: [link](https://drive.google.com/file/d/166iHlMqO28MaFuxZTuiLbNNly7qdmj4p/view?usp=sharing)
-- Email: mmallya ([_at_)] sfu [(_dot_]) ca
+- Email: mmallya `at` sfu `dot` ca
 
 Publications
 ---
