@@ -29,7 +29,7 @@ Publications
 > **2. Deep Multimodal Guidance for Medical Image Classification**  
 > <img src="/images/website_MMG.png" width="220" height="150" align="right">   
 > **M Mallya**, G Hamarneh  
-> **Accepted to MICCAI 2022** ([pdf](https://arxiv.org/pdf/2203.05683.pdf), [code](), [3MTvideo](https://youtu.be/hy-haCkZsNo))  
+> **Accepted to MICCAI 2022** ([pdf](https://arxiv.org/pdf/2203.05683.pdf), [code](), [3MT video](https://youtu.be/hy-haCkZsNo))  
 > `Leveraging the superior modality – that is usually harder to acquire – to guide the classification of the easily acquired modality using multimodal and student-teacher learning strategies. We are demonstrating the method on two datasets- RadPath (paired radiology and histopathology images) and Derm7pt (paired clinical and dermoscopic images).`  
 
 <br/>
