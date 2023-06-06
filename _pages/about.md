@@ -14,9 +14,11 @@ redirect_from:
 
 <br/>
 
-I'm a graduate student in the School of Computing Science at the Simon Fraser University (SFU), Burnaby. I work as a Research Assistant at the [Medical Image Analysis Lab](https://www.medicalimageanalysis.com/) of SFU under the supervision of Prof. [Ghassan Hamarneh](https://scholar.google.com/citations?user=61DdlkAAAAAJ). My research interests lie in the application of Computer Vision and Deep Learning for Medical Image Analysis.
+I am a PhD student at the [AI in Medicine lab](https://www.aimlab.ca) at the University of British Columbia (UBC) in Vancouver. I am broadly interested in the application of AI for healthcare and my experience lies at the intersection of Machine Learning, Computer Vision, and Medical Image Analysis.
 
-I started my Masters (Thesis-based M.Sc.) in the Fall of 2019. Before joining SFU, I did my undergrad at the National Institute of Technology Karnataka in Electronics and Communication Engineering. I was fortunate to have interned at the University of Regina and Manipal Dot Net Pvt. Ltd. during this period. 
+Recently, I graduated from the School of Computing Science at the Simon Fraser University (SFU), Burnaby with an MSc degree (thesis track). During my time at SFU, I worked as a Research Assistant at the [Medical Image Analysis Lab](https://www.medicalimageanalysis.com/) of SFU. If you are interested in my MSc research, I am attaching the link to my MSc thesis where you can find the complete information [here](https://summit.sfu.ca/item/35342).
+
+Before starting my MSc program, I did my undergrad at the National Institute of Technology Karnataka in Electronics and Communication Engineering. I was fortunate to have interned at the University of Regina and Manipal Dot Net Pvt. Ltd. during this period. 
 
 - CV: [link](https://drive.google.com/file/d/166iHlMqO28MaFuxZTuiLbNNly7qdmj4p/view?usp=sharing)
 - Email: mmallya `at` sfu `dot` ca
@@ -84,4 +86,4 @@ Organizations
 
 <br/>
 
-*Last updated: 13 May 2022*
+*Last updated: 06 Jun 2023*
