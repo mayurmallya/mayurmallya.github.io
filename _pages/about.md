@@ -14,9 +14,9 @@ redirect_from:
 
 <br/>
 
-I am a PhD student at the [AI in Medicine Lab](https://www.aimlab.ca) at the University of British Columbia (UBC) in Vancouver. I am broadly interested in the application of AI for healthcare and my experience lies at the intersection of Machine Learning, Computer Vision, and Medical Image Analysis.
+I am a PhD student at the [AI in Medicine Lab](https://www.aimlab.ca) at the University of British Columbia (UBC) in Vancouver. I am broadly interested in the application of AI for healthcare domain. My experience lies at the intersection of Machine Learning, Computer Vision, and Medical Image Analysis.
 
-Recently, I graduated from the School of Computing Science at the Simon Fraser University (SFU), Burnaby with an MSc degree (thesis track). During my time at SFU, I worked as a Research Assistant at the [Medical Image Analysis Lab](https://www.medicalimageanalysis.com/) of SFU. If you are interested in my MSc research, I am attaching the link to my MSc thesis where you can find the complete information [here](https://summit.sfu.ca/item/35342).
+Recently, I graduated from the School of Computing Science at the Simon Fraser University (SFU), Burnaby with an MSc degree (thesis track). During my time at SFU, I worked as a Research Assistant at the [Medical Image Analysis Lab](https://www.medicalimageanalysis.com/) of SFU. If you are interested in my MSc research, I am attaching the link to my MSc thesis where you can find the complete information ([here](https://summit.sfu.ca/item/35342)).
 
 Before starting my MSc program, I did my undergrad at the National Institute of Technology Karnataka in Electronics and Communication Engineering. I was fortunate to have interned at the University of Regina and Manipal Dot Net Pvt. Ltd. during this period. 
 
