@@ -21,7 +21,7 @@ Recently, I graduated from the School of Computing Science at the Simon Fraser U
 Before starting my MSc program, I did my undergrad at the National Institute of Technology Karnataka in Electronics and Communication Engineering. I was fortunate to have interned at the University of Regina and Manipal Dot Net Pvt. Ltd. during this period. 
 
 - CV: [link](https://drive.google.com/file/d/166iHlMqO28MaFuxZTuiLbNNly7qdmj4p/view?usp=sharing)
-- Email: mmallya `at` sfu `dot` ca
+- Email: mayur `dot` mallya `at` ubc `dot` ca
 
 <br/>
 
