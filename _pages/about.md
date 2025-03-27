@@ -28,6 +28,8 @@ Before starting my MSc program, I did my undergrad at the National Institute of 
 Publications
 ---
 
+Please visit my [Google Scholar](https://scholar.google.ca/citations?user=gzRUnEMAAAAJ&hl=en) to see the up-to-date list of my publications.
+
 > **2. Deep Multimodal Guidance for Medical Image Classification**  
 > <img src="/images/website_MMG.png" width="220" height="150" align="right">   
 > **M Mallya**, G Hamarneh  
